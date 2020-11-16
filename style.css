@@ -141,8 +141,11 @@ td{
 <style>
 <div class="content">
 
-.inframe{
+iframe{
     text-align: center;
+    height: 1000px;
+    width: 700px;
+    border: none;
 }
 
 #logo{
